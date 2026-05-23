@@ -1,0 +1,7 @@
+{
+  "name": "la-tiendita",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'This is a static site' && mkdir -p dist && cp -r * dist/"
+  }
+}
